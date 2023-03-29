@@ -1,4 +1,4 @@
-# DocuChat: A Document Chat Application with OpenAI Embeddings
+# DocuChat: A Document Chat Application with Local Embeddings
 
 DocuChat is a chat application that allows users to communicate with each other by exchanging documents and messages. The application uses OpenAI embeddings for faster and more secure communication, and the embeddings are stored locally, eliminating the need for external API requests.
 
